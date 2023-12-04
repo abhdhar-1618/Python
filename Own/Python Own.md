@@ -7,3 +7,5 @@
 02-12-2023 22:00:02 Synthetic data generation python file added [WIP]
 
 03-12-2023 21:55:36 Generated fake dataset using Mimesis module [WIP]
+
+04-12-2023 23:15:45 Synthetic data generation python file updated [WIP]
