@@ -8,3 +8,6 @@
 12-12-2023 23:13:45 Freecodecamp_Pandas_Part_1 and Faker extras Python files added with words and pokemon csv files
 
 13-12-2023 22:01:05 Freecodecamp_Pandas_Part_2.ipynb file added
+
+
+14-12-2023 23:05:20 Freecodecamp_Pandas_Part_3.ipynb file added
