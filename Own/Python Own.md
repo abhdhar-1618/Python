@@ -13,3 +13,5 @@
 05-12-2023 21:56:45 Synthetic data generation python file updated [WIP]
 
 06-12-2023 21:50:26 generated_data_5000_rows.csv File added
+
+18-12-2023 23:28:14 Collage script added
