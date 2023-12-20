@@ -15,3 +15,5 @@
 06-12-2023 21:50:26 generated_data_5000_rows.csv File added
 
 18-12-2023 23:28:14 Collage script added
+
+20-12-2023 23:19:45 Video resolution script added
