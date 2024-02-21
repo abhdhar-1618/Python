@@ -18,4 +18,4 @@
 
 20-12-2023 23:19:45 Video resolution script added
 
-07-01-2024 23:17:28 working with imported data python script added
+21-02-2024 23:23:14 work starts on movie dataset EDA
