@@ -19,4 +19,7 @@
 20-12-2023 23:19:45 Video resolution script added
 
 21-02-2024 23:23:14 work starts on movie dataset EDA
+
 22-02-2024 19:02:48 python script for removing whitespaces in .csv files
+
+24-02-2024 21:39:25 Python notes from W3 Scools saved
