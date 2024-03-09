@@ -25,3 +25,5 @@
 24-02-2024 21:39:25 Python notes from W3 Scools saved
 
 02-03-2024 23:08:28 SQL Data Creation File added
+
+09-03-2024 21:41:37 Anagrams file added
