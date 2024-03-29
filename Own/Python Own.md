@@ -29,3 +29,5 @@
 09-03-2024 21:41:37 Anagrams file added
 
 25-03-2024 21:46:35 Folder creation from imported file in python file added
+
+29-03-2024 09:42:29 EDA on gold prices file added
