@@ -39,3 +39,5 @@
 31-03-2024 23:40:24 started work on fraud detection ml model
 
 01-04-2024 21:40:04 file merging and modifier script updated
+
+02-04-2024 21:56:59 random forest applied
