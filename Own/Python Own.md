@@ -45,3 +45,7 @@
 03-04-2024 21:57:27 own random forest project updated and SQ data project started
 
 04-04-2024 23:40:16 SQ project file updated
+
+05-04-2024 15:39:30 Prediction of stock price direction project completed
+
+10-04-2024 01:26:53 File path by extension.ipynb script added
