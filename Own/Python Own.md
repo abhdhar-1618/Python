@@ -49,3 +49,5 @@
 05-04-2024 15:39:30 Prediction of stock price direction project completed
 
 10-04-2024 01:26:53 File path by extension.ipynb script added
+
+10-05-2024 23:24:02 wordfind script uploaded
